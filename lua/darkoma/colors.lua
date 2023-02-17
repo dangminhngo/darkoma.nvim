@@ -36,7 +36,7 @@ M.pal = {
     dark_bg = "#10171f",
   },
   hard = {
-    black = C:shade("#374953"),
+    black = C:shade("#16212b"),
     red = C:shade("#f3787d"),
     green = C:shade("#93d785"),
     blue = C:shade("#62b1ff"),

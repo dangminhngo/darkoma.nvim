@@ -1,5 +1,5 @@
 local M = {
-  accent = "green",
+  accent = "teal",
   style = "default",
   options = {
     transparent = false,
