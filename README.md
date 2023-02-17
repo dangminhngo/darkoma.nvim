@@ -1,10 +1,10 @@
 <h1 align="center">Darkoma</h1>
 <br />
 <p align="center">
-  <a href="https://github.com/jadnw/darkoma.nvim/stargazers"><img src="https://img.shields.io/github/stars/jadnw/darkoma.nvim?colorA=1b2125&colorB=73aace&style=for-the-badge"></a>
-  <a href="https://github.com/jadnw/darkoma.nvim/issues"><img src="https://img.shields.io/github/issues/jadnw/darkoma.nvim?colorA=1b2125&colorB=f08789&style=for-the-badge"></a>
-  <a href="https://github.com/jadnw/darkoma.nvim/contributors"><img src="https://img.shields.io/github/contributors/jadnw/darkoma.nvim?colorA=1b2125&colorB=83c1ae&style=for-the-badge"></a>
-  <a href="https://github.com/jadnw/darkoma.nvim/network/members"><img src="https://img.shields.io/github/forks/jadnw/darkoma.nvim?colorA=1b2125&colorB=b3a8f9&style=for-the-badge"></a>
+  <a href="https://github.com/dangminhngo/darkoma.nvim/stargazers"><img src="https://img.shields.io/github/stars/dangminhngo/darkoma.nvim?colorA=1b2125&colorB=73aace&style=for-the-badge"></a>
+  <a href="https://github.com/dangminhngo/darkoma.nvim/issues"><img src="https://img.shields.io/github/issues/dangminhngo/darkoma.nvim?colorA=1b2125&colorB=f08789&style=for-the-badge"></a>
+  <a href="https://github.com/dangminhngo/darkoma.nvim/contributors"><img src="https://img.shields.io/github/contributors/dangminhngo/darkoma.nvim?colorA=1b2125&colorB=83c1ae&style=for-the-badge"></a>
+  <a href="https://github.com/dangminhngo/darkoma.nvim/network/members"><img src="https://img.shields.io/github/forks/dangminhngo/darkoma.nvim?colorA=1b2125&colorB=b3a8f9&style=for-the-badge"></a>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@ Darkoma saves your eyestraints with a dark background and a pastel palette.
 
 <div align="center">
   <img 
-    src="https://raw.githubusercontent.com/jadnw/darkoma.nvim/main/media/palette.svg"
+    src="https://raw.githubusercontent.com/dangminhngo/darkoma.nvim/main/media/palette.svg"
     alt="darkoma Palette"
   />
 </div>
@@ -41,12 +41,12 @@ You can install Darkoma via your favorite plugin manager:
 
 - Vim-Plug
 ```vim
-Plug "jadnw/darkoma.nvim"
+Plug "dangminhngo/darkoma.nvim"
 ```
 
 - Packer
 ```lua
-use { "jadnw/darkoma.nvim" }
+use { "dangminhngo/darkoma.nvim" }
 ```
 
 For a complete guide, see ```:h darkoma.nvim```
