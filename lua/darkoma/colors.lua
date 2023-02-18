@@ -31,8 +31,8 @@ M.pal = {
     fg1 = "#b2c4d6",
     fg2 = "#9cb3ca",
     fg3 = "#7192b3",
-    sel0 = "#5b81a7",
-    sel1 = "#2a74ff",
+    sel0 = "#42607d",
+    sel1 = "#bfefe4",
     dark_bg = "#10171f",
   },
   hard = {
@@ -57,8 +57,8 @@ M.pal = {
     fg1 = "#a6bcd0",
     fg2 = "#90abc4",
     fg3 = "#6e92b3",
-    sel0 = "#5881a7",
-    sel1 = "#2a74ff",
+    sel0 = "#415f7b",
+    sel1 = "#bfefe4",
     dark_bg = "#0f161d",
   },
 }
