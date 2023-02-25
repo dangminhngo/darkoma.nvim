@@ -19,7 +19,7 @@ M.styles = {
 }
 
 function M.load_spec(accent, style)
-  accent = vim.tbl_contains(vim.tbl_keys(M.accents), accent) and accent or "teal"
+  accent = vim.tbl_contains(vim.tbl_keys(M.accents), accent) and accent or "green"
   style = vim.tbl_contains(M.styles, style) and style or "default"
   local colors = require("darkoma.colors")
   return colors.gen_spec(M.accents[accent], colors.pal[style])
